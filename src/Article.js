@@ -1,6 +1,7 @@
 import React from 'react'
 import moment from 'moment'
 
+
 const Article = ({ title, snippet, date, length }) => {
   return (
     <article className='post'>
